@@ -9,6 +9,7 @@ Basic command-line interface (like Terminal on macOS/Linux or Command Prompt/Pow
 Installing
 Download the source code from the repository or copy it into a text file.
 Save the file with a .cpp extension, for example, file_compressor.cpp.
+
 **Compiling the Program**
 To compile the program, use a C++ compiler. For example, using GCC:
 
